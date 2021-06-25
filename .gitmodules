@@ -1,0 +1,3 @@
+[submodule "erc20-client"]
+	path = erc20-client
+	url = https://github.com/thsnyzkn/erc20-client
